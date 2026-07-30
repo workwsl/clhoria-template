@@ -1,6 +1,8 @@
 /**
  * This code is based on the stoker project by w3cj
  * Source: https://github.com/w3cj/stoker
+ * Upstream version: v2.0.1
+ * Upstream commit: f623a4e13f579111d938fbc1dbd526f564abda5d
  *
  * Since English doesn't fully meet the needs of Chinese users, this version is copied for Chinese users.
  * English users can install the original package directly (`pnpm add stoker`) and remove this folder.
