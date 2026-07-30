@@ -38,3 +38,6 @@ openspec/
 
 # local *
 *.local.*
+
+# local task notes
+tasks/

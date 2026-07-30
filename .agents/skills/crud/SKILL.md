@@ -35,7 +35,7 @@ src/routes/{tier}/{category}/{feature}/
 
 ```typescript
 // src/db/schema/{tier}/{category}/{feature}.ts
-export const {feature}s = pgTable("{tier}_{feature}s", {
+export const {feature}s = snakeCase.table("{tier}_{feature}s", {
   ...baseColumns,
   // 字段定义...
 });
